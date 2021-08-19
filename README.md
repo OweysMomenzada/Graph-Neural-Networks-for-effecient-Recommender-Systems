@@ -1,1 +1,1 @@
-# Graph-Neural-Networks-for-effecient-Recommender-Systems
+# Graph Neural Networks for effecient Recommender-Systems
