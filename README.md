@@ -18,7 +18,7 @@ Simply do:
 <code>$ conda install -c dglteam "dgl<0.5.3" </code>
   
 ## Experiments
-We apply the approach on Benchmark dataset, thus we can only focus on the technical implementation and use it for comparison. 
+We apply the approach on Benchmark dataset, thus we can only focus on the technical implementation and use it for comparison.  <br>
 NOTE: I suggest to work on GPU for example on Google Colab (free GPU usage) to get the highest possible performance.
  
 #### AmazonReview:
