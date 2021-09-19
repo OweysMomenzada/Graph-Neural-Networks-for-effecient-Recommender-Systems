@@ -1,3 +1,5 @@
+<big><b> Author: Oweys Momenzada </big></b>
+
 # Graph Neural Networks for effecient Recommender-Systems
 
 #### What is this repository about?
