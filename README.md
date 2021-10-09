@@ -3,7 +3,7 @@
 # Graph Neural Networks for effecient Recommender-Systems
 
 #### What is this repository about?
-In our research paper we introduce a Graph Neural Network approach to develop recommender-systems. Recently, Graph Neural Networks (GNNs) have been ganing a lot of popularity in various fields. Though, GNNs are considered to be a new field of research with great potential for the future, they already have been able to convince with excellent results.
+In our research paper we introduce a Graph Neural Network approach to develop Recommender-Systems. Recently, Graph Neural Networks (GNNs) have been gaining a lot of popularity in various fields. Though, GNNs are considered to be a new field of research with great potential for the future, they already have been able to convince with excellent results.
 In this repository I want to provide some technical workflows of GNNs based on <a href="https://www.dgl.ai/">DeepGraphLibrary (DGL)</a> and the <a href="https://arxiv.org/abs/1706.02263">GCMC model</a>. 
 
 ## Requirements
@@ -14,14 +14,14 @@ In this repository I want to provide some technical workflows of GNNs based on <
 - Python version: 3.8
 
 #### How to install DGL 0.5.3
-You need the 0.5.X version of DGL. Otherwise it can cause an error. 
+You need the 0.5.X version of DGL. Otherwisen it can cause an memory error. 
 Simply do:
 
 <code>$ conda install -c dglteam "dgl<0.5.3" </code>
   
 ## Experiments
-We apply the approach on Benchmark dataset, thus we can only focus on the technical implementation and use it for comparison.  <br>
-NOTE: I suggest to work on GPU for example on Google Colab (free GPU usage) to get the highest possible performance.
+We apply the approach on Benchmark datasets; thus we can only focus on the technical implementation and use it for comparison.  <br>
+NOTE: I suggest working on GPU for example on Google Colab (free GPU usage) to get the highest possible performance.
  
 #### AmazonReview:
   ```
@@ -46,13 +46,14 @@ NOTE: Here I used the 10-Core approach, which may differ from author to author.
   ```
   
 ## Research Paper
-You can get deeper insight of our work <a href="https://www.dgl.ai/">here</a>.
-This includes different types on Recommender-Systems, GNNs and Training methods.
+You can get a deeper insight of our work <a href="404">here</a>.
+This includes different types of Recommender-Systems, GNNs and Training methods.
 
 ## Cite
 If you are interested and want to cite our work, please feel free to use:
 
   ```
+  Publication ongoing
   @article{loremipsum,
   title={loremipsum},
   author={vloremipsum},
@@ -61,7 +62,7 @@ If you are interested and want to cite our work, please feel free to use:
   }
   ```
   
-If you are also interested in the model and the technical implementation based on the experiments also cite:
+If you are also interested in the model and the technical implementation based on the experiments, also cite:
   
 #### Authors of <a href="https://arxiv.org/abs/1909.01315">DGL</a>: 
   ```
