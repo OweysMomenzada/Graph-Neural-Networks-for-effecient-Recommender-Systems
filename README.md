@@ -14,7 +14,7 @@ In this repository I want to provide some technical workflows of GNNs based on <
 - Python version: 3.8
 
 #### How to install DGL 0.5.3
-You need the 0.5.X version of DGL. Otherwisen it can cause an memory error. 
+You need the 0.5.X version of DGL. Otherwise it can cause an memory error. 
 Simply do:
 
 <code>$ conda install -c dglteam "dgl<0.5.3" </code>
