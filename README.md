@@ -46,7 +46,7 @@ NOTE: Here I used the 10-Core approach, which may differ from author to author.
   ```
   
 ## Research Paper
-You can get a deeper insight of our work <a href="404">here</a>.
+You can get a deeper insight of our work <a href="https://www.researchgate.net/publication/355928151_Graph_Neural_Networks_for_Efficient_Recommender_Systems">here</a>.
 This includes different types of Recommender-Systems, GNNs and Training methods.
 
 ## Cite
